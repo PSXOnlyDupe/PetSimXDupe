@@ -1,3 +1,4 @@
+local UwU = {}
 function UwU.ABC(title,abc,dd)
     print(tostring(title))
     print(dd)
