@@ -244,7 +244,7 @@ function Library.Init(options)
             Title2.Font = Enum.Font.Gotham
             Title2.Text = "Frag"
             Title2.TextColor3 = Color3.fromRGB(255, 255, 255)
-            Title2.TextSize = 7.000
+            Title2.TextSize = 1.000
 
             BorderFrame.Name = "BorderFrame"
             BorderFrame.Parent = Header
