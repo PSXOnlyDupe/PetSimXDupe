@@ -239,7 +239,7 @@ function Library.Init(options)
             Title2.Parent = Header
             Title2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
             Title2.BackgroundTransparency = 1.000
-            Title2.Position = UDim2.new(0.0900000036, 0, 0, 0)
+            Title2.Position = UDim2.new(0.0900000033, 0, 0, 0)
             Title2.Size = UDim2.new(0, 30, 0, 38)
             Title2.Font = Enum.Font.Gotham
             Title2.Text = "Fragments"
