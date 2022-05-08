@@ -242,9 +242,9 @@ function Library.Init(options)
             Title2.Position = UDim2.new(0.0900000036, 0, 0, 0)
             Title2.Size = UDim2.new(0, 25, 0, 33)
             Title2.Font = Enum.Font.Gotham
-            Title2.Text = "Frag"
+            Title2.Text = "Fragments"
             Title2.TextColor3 = Color3.fromRGB(255, 255, 255)
-            Title2.TextSize = 1.000
+            Title2.TextSize = 7.000
 
             BorderFrame.Name = "BorderFrame"
             BorderFrame.Parent = Header
